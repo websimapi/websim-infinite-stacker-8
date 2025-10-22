@@ -84,4 +84,3 @@ export class UIManager {
         this.replayButton.textContent = text;
     }
 }
-
